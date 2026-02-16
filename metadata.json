@@ -1,0 +1,8 @@
+{
+  "name": "Basheer AI Pro",
+  "description": "An elite personal Coding Mentor AI exclusively for Basheer Bilal, providing step-by-step guidance in Urdu and English.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
